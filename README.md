@@ -6,6 +6,6 @@ The main aim of this project is to simplify the process of managing student and 
 
 Also automatic emails would be sent to the parents, students and faculty of the department regarding the monthly performance reports. Also, automatic texts would be sent out students, parents or faculty about important events in the university.
 
-For a short video of the project, please see the Video_Demo file in the Documentation folder.
+To see screenshots of the project, please refer the User Manual file.
 
 This project was ranked in the top 30 out of 100,000 entries for the contest.
